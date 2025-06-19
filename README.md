@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>🌱 I’m currently learning Data Science and Machine Learning.<br><br>🧠 Exploring Python, NumPy, Pandas, Scikit-learn, and more.<br><br>💬 Ask me about anything related to Python, NumPy, or Machine Learning Basics.<br><br>👯 I’m looking to collaborate on open-source data science projects.<br><br>📫 How to reach me: LinkedIn | Email<br><br>⚡ Fun fact: I turn data into insights and coffee into code ☕<br><br>Goals for 2025<br>✅ Master Machine learning<br><br>⏳ Complete 100+ ML practice problems<br><br>📘 Start contributing to open-source projects<br><br>🧪 Build a full Data Science portfolio
+🌱 I’m currently learning Data Science and Machine Learning.<br><br>🧠 Exploring Python, NumPy, Pandas, Scikit-learn, and more.<br><br>💬 Ask me about anything related to Python, NumPy, or Machine Learning Basics.<br><br>👯 I’m looking to collaborate on open-source data science projects.<br><br>📫 How to reach me: LinkedIn | Email<br><br>⚡ Fun fact: I turn data into insights and coffee into code ☕<br><br>Goals for 2025<br>✅ Master Machine learning<br><br>⏳ Complete 100+ ML practice problems<br><br>📘 Start contributing to open-source projects<br><br>🧪 Build a full Data Science portfolio
 
 
 ## 🌐 Socials:
