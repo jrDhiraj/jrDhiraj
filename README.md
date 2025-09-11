@@ -50,7 +50,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -63,7 +63,7 @@
 ## Activity Graph
 [![jrDhiraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jrDhiraj&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jrDhiraj&theme=radical&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect With Me
@@ -92,8 +92,6 @@
   
 </div>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/jrDhiraj/jrDhiraj/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
