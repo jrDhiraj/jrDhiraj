@@ -8,11 +8,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
 </p>
 
+<table>
+  <tr>
+    <td style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+      
 ## About Me
 
 <p align="center">
-  <img src="https://media.giphy.com media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"> 
-  <!-- This is a generic coding GIF from Giphy that will work without download -->
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"> 
 </p>
 
 **Aspiring Data Scientist** with a passion for transforming raw data into meaningful insights and building intelligent systems.
@@ -92,6 +95,9 @@
   
 </div>
 
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
