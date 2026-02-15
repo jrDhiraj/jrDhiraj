@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
 Motivated and detail-oriented **Aspiring Data Scientist** with strong foundations in **Python, SQL, Excel, and Power BI**.  
 Passionate about transforming raw data into actionable insights and building machine learning models to solve real-world problems.
@@ -61,15 +61,6 @@ Passionate about transforming raw data into actionable insights and building mac
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
-
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrDhiraj&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrDhiraj&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
 
 
 ## 📫 Contact Me
