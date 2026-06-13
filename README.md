@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Dhiraj Kumar Sharma</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast | NLP </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dhiraj-kumar-sharma-9054a5243">
@@ -27,25 +27,31 @@ Passionate about transforming raw data into actionable insights and building mac
 ## 🛠 Technical Skills
 
 ### 📌 Programming & Databases
-- Python  
-- SQL  
+- Python  : ( Data structure , Oops , file handling , exception handling )
+- SQL     : ( Groupby , Aggregations, Subquery , Joins , Window function, CTE)
 
 ### 📊 Data Analysis & Visualization
 - Pandas  
 - NumPy  
 - Excel  
 - Power BI  
-- Matplotlib / Seaborn  
+- Matplotlib / Seaborn
+- EDA
 
-### 🤖 Machine Learning
-- Scikit-learn  
-- TensorFlow (Basics)  
-- Supervised & Unsupervised Learning  
-- Model Evaluation & Feature Engineering  
-
+### 🤖 Machine Learning & Data Science
+- Scikit-learn    
+- Supervised , Unsupervised Learning & clustering
+- Model Evaluation & Feature Engineering
+- A/B testing
+- Statistics
+- NLP
+- TensorFlow (Basics)
+- Pytorch (Basics)
+  
 ### 🌐 Web Fundamentals
 - HTML  
 - CSS  
+- Streamlit
 
 ---
 
@@ -66,5 +72,6 @@ Passionate about transforming raw data into actionable insights and building mac
 ## 📫 Contact Me
 
 - 📧 Email: jdhirajkumar665@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/dhiraj-kumar-sharma-9054a5243  
+- 💼 LinkedIn: https://linkedin.com/in/dhiraj-kumar-sharma-9054a5243
+  
 ---
