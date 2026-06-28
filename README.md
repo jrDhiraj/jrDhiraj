@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhiraj Kumar Sharma 👋</h1>
 
 <h3 align="center">
-  Data Scientist · Machine Learning · NLP · Computer Vision · Python
+  Data Scientist · Machine Learning · NLP  · Python 
 </h3>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 B.Tech graduate in Computer Science with hands-on experience building and deploying end-to-end Machine Learning and AI solutions across multiple domains — from structured data analytics and NLP to Computer Vision and Generative AI.
 
-- 🚀 Built and deployed **10+ ML/AI projects** spanning NLP, CV, RAG, Forecasting, and Classification
+- 🚀 Built and deployed **Multiple ML/AI projects** spanning NLP, CV, RAG, Forecasting, and Classification
 - 🤖 Experienced in **Machine Learning, Deep Learning, NLP, Computer Vision, and RAG-based AI systems**
 - 📊 Strong in **Data Analysis, EDA, Feature Engineering, and Model Evaluation**
 - 🧠 Working with **LLMs, Hugging Face Transformers, and Retrieval-Augmented Generation (RAG)**
-- 🌱 Currently deepening expertise in **MLOps, LangChain, and production-grade AI pipelines**
+- 🌱 Currently deepening expertise in **Docker, AI**
 - 💼 Actively seeking **Fresher Data Scientist / ML Engineer** roles
 - 📬 Reach me at **jdhirajkumar665@gmail.com**
 
