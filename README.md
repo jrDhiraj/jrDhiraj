@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhiraj Kumar Sharma 👋</h1>
 
 <h3 align="center">
-  Data Scientist · Machine Learning · NLP  · Python 
+  Data Scientist · Machine Learning · NLP  · Data analyst
 </h3>
 
 <p align="center">
